@@ -1,0 +1,6 @@
+Audio sostituiti col silenzio perché mancanti:
+- ig_regina_pace.mp3
+- ig_intenzioni_papa.mp3
+
+Audio in lingua inglese anziché IGBO:
+- ig_litanie.mp3
